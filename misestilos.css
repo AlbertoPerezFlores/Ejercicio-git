@@ -56,3 +56,12 @@ img {
         filter: grayscale(0%);
     }
 }
+
+table{
+    background-color: #0083e8;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 1.2em;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
